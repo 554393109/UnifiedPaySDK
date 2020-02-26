@@ -7,8 +7,8 @@
     <ProjectGuid>{0AE60AAC-D794-4971-BBC0-11D8F981935F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UnifiedPaySDK</RootNamespace>
-    <AssemblyName>UnifiedPaySDK</AssemblyName>
+    <RootNamespace>CySoft.UnifiedPaySDK</RootNamespace>
+    <AssemblyName>CySoft.UnifiedPaySDK</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

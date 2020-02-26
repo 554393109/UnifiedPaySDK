@@ -1,4 +1,4 @@
-﻿namespace UnifiedPaySDK.Response
+﻿namespace CySoft.UnifiedPaySDK.Response
 {
     using System;
     using System.Collections.Generic;

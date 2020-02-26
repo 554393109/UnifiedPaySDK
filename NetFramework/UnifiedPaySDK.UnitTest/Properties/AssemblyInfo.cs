@@ -2,12 +2,12 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("UnifiedPaySDK.UnitTest")]
+[assembly: AssemblyTitle("CySoft.UnifiedPaySDK.UnitTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("UnifiedPaySDK.UnitTest")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2020")]
+[assembly: AssemblyCompany("CySoft")]
+[assembly: AssemblyProduct("CySoft.UnifiedPaySDK.UnitTest")]
+[assembly: AssemblyCopyright("Copyright © CySoft 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

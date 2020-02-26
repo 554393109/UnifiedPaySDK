@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UnifiedPaySDK\UnifiedPaySDK.csproj">
+    <ProjectReference Include="..\UnifiedPaySDK\CySoft.UnifiedPaySDK.csproj">
       <Project>{0ae60aac-d794-4971-bbc0-11d8f981935f}</Project>
-      <Name>UnifiedPaySDK</Name>
+      <Name>CySoft.UnifiedPaySDK</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

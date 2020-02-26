@@ -1,9 +1,9 @@
-﻿namespace UnifiedPaySDK.UnitTest
+﻿namespace CySoft.UnifiedPaySDK.UnitTest
 {
     using System;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using UnifiedPaySDK.Request;
-    using UnifiedPaySDK.Response;
+    using CySoft.UnifiedPaySDK.Request;
+    using CySoft.UnifiedPaySDK.Response;
 
     [TestClass]
     public class ExecuteTest
