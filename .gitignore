@@ -10,5 +10,7 @@ desktop.ini
 
 ########### /* ###########
 /*/.vs
+/*/packages
+/*/TestResults
 /*/*/obj
 /*/*/bin/Debug
