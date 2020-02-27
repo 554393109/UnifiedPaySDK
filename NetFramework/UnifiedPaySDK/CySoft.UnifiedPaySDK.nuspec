@@ -2,17 +2,16 @@
 <package >
   <metadata>
     <id>CySoft.UnifiedPaySDK</id>
-    <version>1.0.0.2002271600</version>
+    <version>1.0.0.2002271750</version>
     <title>CySoft.UnifiedPaySDK</title>
     <authors>尹自强</authors>
-    <owners>尹自强</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/554393109/UnifiedPaySDK/</projectUrl>
-    <iconUrl>http://static.yinziqiang.com/qrpay.ico</iconUrl>
+    <iconUrl>https://qrpay.pos.cn/favicon.ico</iconUrl>
     <description>UnifiedPay SDK for .NET让您不用复杂编程即可访问超赢聚合支付系统的各项能力，SDK可以自动帮您满足能力调用过程中所需的签名加签、验签、发送HTTP请求等非功能性要求。</description>
     <releaseNotes>初始化</releaseNotes>
     <copyright>Copyright 2020</copyright>
-    <tags>CySoft, Unified, Pay, API, SDK</tags>
+    <tags>超赢, 聚合支付, SDK, CySoft, UnifiedPay, API, .Net, C#</tags>
   </metadata>
 </package>
