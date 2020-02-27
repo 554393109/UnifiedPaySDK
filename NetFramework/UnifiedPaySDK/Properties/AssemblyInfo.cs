@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("CySoft.UnifiedPaySDK")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("UnifiedPay SDK for .NET让您不用复杂编程即可访问超赢聚合支付系统的各项能力，SDK可以自动帮您满足能力调用过程中所需的签名加签、验签、发送HTTP请求等非功能性要求。")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("CySoft")]
+[assembly: AssemblyCompany("尹自强")]
 [assembly: AssemblyProduct("CySoft.UnifiedPaySDK")]
 [assembly: AssemblyCopyright("Copyright © CySoft 2020")]
 [assembly: AssemblyTrademark("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 //可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值
 //通过使用 "*"，如下所示:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.*")]
+[assembly: AssemblyFileVersion("1.0.0.2002271600")]
