@@ -15,3 +15,7 @@ desktop.ini
 /*/*/obj
 /*/*/bin/Debug
 /*/*/*.nupkg
+
+########### /NetFramework ###########
+/NetFramework/UnifiedPaySDK.UnitTest/bin
+/NetFramework/UnifiedPaySDK.UnitTest/obj
