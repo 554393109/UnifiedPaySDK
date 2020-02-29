@@ -24,11 +24,11 @@ UnifiedPay SDK for .NET让您不用复杂编程即可访问超赢聚合支付系
 
 3. 准备工作完成后，注意保存信息，后续将作为使用SDK的输入。
 
-## Star数量统计
-
-[![Stargazers over time](https://starchart.cc/554393109/UnifiedPaySDK.svg)](https://starchart.cc/554393109/UnifiedPaySDK)
-
 ## 欢迎打赏
 
 [![微信](http://static.yinziqiang.com/donate/donate_wechat.jpg)](http://pos.cn/ "超赢科技")
 [![支付宝](http://static.yinziqiang.com/donate/donate_alipay.jpg)](http://pos.cn/ "超赢科技")
+
+## Star数量统计
+
+[![Stargazers over time](https://starchart.cc/554393109/UnifiedPaySDK.svg)](https://starchart.cc/554393109/UnifiedPaySDK)
