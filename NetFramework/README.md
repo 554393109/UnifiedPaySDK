@@ -9,7 +9,6 @@
 [![NuGet Downloads](https://img.shields.io/nuget/dt/CySoft.UnifiedPaySDK.svg)](https://www.nuget.org/packages/CySoft.UnifiedPaySDK)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-
 欢迎使用 UnifiedPay SDK for .Net。
 
 UnifiedPay SDK for .NET让您不用复杂编程即可访问超赢聚合支付系统的各项能力，SDK可以自动帮您满足能力调用过程中所需的签名加签、验签、发送HTTP请求等非功能性要求。
@@ -28,3 +27,8 @@ UnifiedPay SDK for .NET让您不用复杂编程即可访问超赢聚合支付系
 ## Star数量统计
 
 [![Stargazers over time](https://starchart.cc/554393109/UnifiedPaySDK.svg)](https://starchart.cc/554393109/UnifiedPaySDK)
+
+## 欢迎打赏
+
+[![微信](http://static.yinziqiang.com/donate/donate_wechat.jpg)](http://pos.cn/ "超赢科技")
+[![支付宝](http://static.yinziqiang.com/donate/donate_alipay.jpg)](http://pos.cn/ "超赢科技")
